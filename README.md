@@ -30,6 +30,7 @@ THEN I find a concise, descriptive title
 ## Screenshot
 
 
+
 ##  Link To The Deployed Application
 
 *
