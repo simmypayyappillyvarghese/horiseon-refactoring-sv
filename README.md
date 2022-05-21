@@ -10,7 +10,7 @@ This needs to be replaced by semantic element so that it meets the accessibility
 
 *   AS A marketing agency,I WANT a codebase that follows accessibility standards so THAT our own site is optimized for search engines.
 
-### Acceptance Criteria : 
+###  Acceptance Criteria : 
 
 GIVEN a webpage meets accessibility standards
 * WHEN I view the source code THEN I find semantic HTML elements
@@ -21,19 +21,23 @@ GIVEN a webpage meets accessibility standards
 
 ##  Links
 
-*   Github Repo URL : 
+* Github Repo URL : https://github.com/simmypayyappillyvarghese/horiseon-refactoring-sv
 
-*   Live URL : 
+*   Live URL : https://simmypayyappillyvarghese.github.io/horiseon-refactoring-sv/
 
 
 ## Technologies Used
 
-* [x] HTML
-* [x] CSS 
+* [x] HTML5
+* [x] CSS3 
+
+<br/>
 
 ## Screenshot
+<br/>
+This is how the website should appear in desktop view after the code is refactored.
 
+<br/>
 
+![Image of Horiseon Website](./assets/screenshot.png)
 
-
-*
