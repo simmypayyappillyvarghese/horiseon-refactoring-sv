@@ -144,7 +144,7 @@ p {
     font-size: 36px;
 }
 
-
+/*Changed .footer class to footer element */
 footer {
     padding: 30px;
     clear: both;
